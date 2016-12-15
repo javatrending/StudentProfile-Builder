@@ -1,0 +1,270 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+
+margin: auto;
+}
+
+
+.centerAlign {
+	text-align: center;
+}
+
+.bkgrImage { 
+ 	background-image: url("/capstone/img/cork-wallet.png"); 
+	
+} 
+ 
+.jumbotron {
+	background-image: url("../img/cork-wallet.png");
+	background-repeat: ;
+	color: white;
+	background-attachment: fixed;
+}
+
+ /* HEADER */
+ 
+ .nav-pills {
+ 	color: white;
+ }
+ 
+ .pull-right {
+ 	margin-top: 10%;
+ }
+ 
+ /* LOGIN */
+ 
+.login {
+ 	margin: auto;
+ 	width: 50%;
+ }
+
+.navbar-brand img {
+	height: 80px;
+	width: auto;
+	background-color: transparent;
+}
+
+.mobileHomeLink {
+	color: skyblue;
+	font-style: cursive;
+	font-weight: bold;
+}
+
+.logo img {
+width: 20%;
+height: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+#links {
+	padding: 8%;
+}
+
+.nav {
+font-size: 20px;
+padding: 30px;
+}
+
+.nav navbar-nav {
+	margin-left: 50%;
+	display: block;
+}
+
+
+/* HOMEPAGE */
+
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a:active {
+	text-decoration: none;
+}
+
+.modal-header, h4, .close  {
+      background-color: #5bc0de;
+      color:white !important;
+      text-align: center;
+      font-size: 30px;
+  }
+
+.homeLogo {
+	color: lightblue;
+	text-decoration: none;
+}
+
+.homeInfoText {
+	
+	font-weight: bold;
+}
+
+
+.textBox {
+	margin-top: 5%;
+}
+h2 {
+text-align: center;
+}
+
+#colLink {
+text-align: center;
+}
+
+
+
+/*COHORT ROSTER*/
+
+.listPic {
+	margin-left: 23%;
+}
+
+.student {
+	margin-top: 8%;
+	
+}
+
+.nameLink {
+	padding: 1%;
+	margin: 12%;
+}
+
+.cohort {
+	border-radius: 80%;
+	margin-top: .3%;
+	text-align: center;
+}
+
+.language {
+	height: auto;
+	width: 20%;
+	background-color: transparent;
+	margin-left: 40%;
+}
+
+/*STUDENT PROFILE*/
+
+.info {
+	margin: 5%;
+}
+
+/* editProfile */
+
+.styleforul{
+	list-style: none;
+}
+.textareastyle{
+	width:50em;
+	height:10em;
+}
+.labelstyle{
+	padding-left:1.5em;
+	
+}
+.headingstyle{
+	font-size:2em;
+	color:rgb(175,178,181);
+}
+.styleforh{
+	color:#24d39c;
+}
+.savebutton{
+	width: 10em;
+	left: 80em;
+    position: fixed;
+    top: 50em;
+   
+    
+}
+.search{
+	display: block;
+    margin: auto;
+    width:10em;
+    margin-top:2em;
+}
+.emp{
+	text-align:center;
+	margin-top:2em;
+}
+.heading{
+	color:rgba(0, 128, 100, 0.64);
+	padding-left:1.5em;
+}
+.labelstyle{
+	text-align: left;
+    width: 11em;
+}
+ul.styleforul li{
+	padding-top:0.75em;
+}
+
+.staffText {
+	color: white;
+}
+
+
+/* editProfile */
+.table {
+	borderstyle: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+}
+.labelstyled {
+	text-align: left;
+    width: 11em;
+    padding-left:1em;
+}
+.notFound{
+	text-align:center;
+	padding-top:1.5em;
+	color:#FF0000;
+}
+
+#radioEdit {
+	padding-left: 50px;
+}
+#state {
+	margin-left: 30px;
+}
+
+#javaBear {
+	
+}
+
+/* portfolio */
+
+#portfolioBtn {
+	borderstyle: none;
+	border-top-style: none;
+}
+
+#portfolioTitle {
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+#projectTypeRow {
+	border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+}
+
+#portfolioDescription {
+	border-top-style: none;
+}
+
+#space {
+	padding-right: 20px;
+}
+
+
